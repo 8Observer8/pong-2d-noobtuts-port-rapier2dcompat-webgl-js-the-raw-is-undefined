@@ -1,3 +1,5 @@
+[Issue](https://github.com/dimforge/rapier.js/issues/240)
+
 The problem is described in this topic: https://discord.com/channels/507548572338880513/1128683241436631140
 
 Sandboxes:
